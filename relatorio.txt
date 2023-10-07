@@ -1,0 +1,12 @@
+Qual funciona melhor?
+AVL
+
+Em qual situação?
+A arvore binaria é Mais rapida para inserção e remover.
+a AVL é mais rapida para busca.
+
+Porque?
+inserção e remover a binaria é mais rapida por que ela não se importa com balanciamento.
+Avl é mais lenta na inserção e na remoção por causa do balanciamento, porem quanto mais dados tiver melhor vai ser a busca, enquanto a binaria quanto mais dados tiver pior na busca ela ficara.
+
+Dados com tempo podem ser visto na imagem "comparação.png"
